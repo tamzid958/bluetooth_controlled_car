@@ -26,3 +26,8 @@ Equipment:
 8. Male and Female Jumper Wire
 
 9. DC Power Switch 6 pin
+ 
+ 
+ Install The APK in your android.Go To settings in the app and connect to HC-05.
+
+Enjoy!!
